@@ -1,0 +1,5 @@
+C:\Users\Dunya\Desktop\GA Rockets\.mono\temp\bin\Tools\GA Rockets.dll
+C:\Users\Dunya\Desktop\GA Rockets\.mono\temp\bin\Tools\GA Rockets.pdb
+C:\Users\Dunya\Desktop\GA Rockets\.mono\temp\obj\Tools\GA Rockets.csprojResolveAssemblyReference.cache
+C:\Users\Dunya\Desktop\GA Rockets\.mono\temp\obj\Tools\GA Rockets.dll
+C:\Users\Dunya\Desktop\GA Rockets\.mono\temp\obj\Tools\GA Rockets.pdb

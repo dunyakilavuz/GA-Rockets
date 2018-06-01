@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA Rockets", "GA Rockets.csproj", "{410BA5E8-3963-43C6-879D-2AB59D52694C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410BA5E8-3963-43C6-879D-2AB59D52694C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410BA5E8-3963-43C6-879D-2AB59D52694C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410BA5E8-3963-43C6-879D-2AB59D52694C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410BA5E8-3963-43C6-879D-2AB59D52694C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410BA5E8-3963-43C6-879D-2AB59D52694C}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{410BA5E8-3963-43C6-879D-2AB59D52694C}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal
